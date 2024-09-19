@@ -26,7 +26,7 @@ And this is the output for the Problem 1 - letter a:
 
  ### __b. Display the first five and last five rows of the resulting cars.__
 
-To display the first five rows and the last five rows, I used this code:
+To display the first five rows and the last five rows, I used these codes:
 
 <img width="119" alt="Screenshot 2024-09-19 at 1 04 58 PM" src="https://github.com/user-attachments/assets/3347e75a-9bff-4cf2-8911-d5fc30592d37">
 
