@@ -1,7 +1,7 @@
 ### <center> WELCOME TO MY EXPERIMENT 3!
 ## <center> PYTHON DATA ANALYSIS (PANDAS)
 
-## __BEFORE I START THE PROBLEM__
+### __BEFORE I START THE PROBLEM__
 
 <p align="justify"> First, I input "import pandas as pd" to access the pandas library.
 
