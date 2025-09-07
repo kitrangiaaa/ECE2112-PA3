@@ -1,12 +1,6 @@
 ### <center> WELCOME TO MY EXPERIMENT 3!
 ## <center> PYTHON DATA ANALYSIS (PANDAS)
 
-Name: Trangia, Klein Isshi G.
-
-Section: 2ECE-D
-
-Date Submitted: September 19, 2024¶
-
 ## __BEFORE I START THE PROBLEM__
 
 <p align="justify"> First, I input "import pandas as pd" to access the pandas library.
